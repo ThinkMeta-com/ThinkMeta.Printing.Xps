@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ThinkMeta.Printing.Xps/ThinkMeta.Printing.Xps.csproj" />
+  </Folder>
+</Solution>
