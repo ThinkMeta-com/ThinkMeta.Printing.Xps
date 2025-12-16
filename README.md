@@ -14,7 +14,7 @@ XPS printing routines for .NET 8, .NET 9, and .NET 10 (Windows only).
 ```csharp
 using ThinkMeta.Printing.Xps;
 
-XpsPrinter.Print(@"C:\\path\\to\\file.xps", "Your Printer Name");
+XpsPrinter.Print(@"C:\path\to\file.xps", "Your Printer Name");
 ```
 
 ## Requirements
