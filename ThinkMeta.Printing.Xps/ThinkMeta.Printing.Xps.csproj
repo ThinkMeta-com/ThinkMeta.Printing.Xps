@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <Title>XPS printing functions</Title>
+        <Description>XPS printing functions</Description>
+        <Copyright>Copyright (c) 2025 ThinkMeta Software GmbH</Copyright>
+        <PackageProjectUrl>https://github.com/ThinkMeta-com/ThinkMeta.Printing.Xps</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/ThinkMeta-com/ThinkMeta.Printing.Xps.git</RepositoryUrl>
+        <PackageTags>xps;printing</PackageTags>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Version>1.0.0</Version>
+        <PackageReleaseNotes>
+Initial release. Print XPS files to any installed Windows printer. Supports .NET 8, .NET 9, and .NET 10 (Windows). Optional DEVMODE support for custom printer settings.
+        </PackageReleaseNotes>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <None Include="..\LICENSE">
+            <Pack>True</Pack>
+            <PackagePath>\</PackagePath>
+        </None>
+        <None Include="..\README.md">
+            <Pack>True</Pack>
+            <PackagePath>\</PackagePath>
+        </None>
+        <None Include="RELEASE_NOTES.md">
+            <Pack>True</Pack>
+            <PackagePath>\</PackagePath>
+        </None>
+    </ItemGroup>
+</Project>

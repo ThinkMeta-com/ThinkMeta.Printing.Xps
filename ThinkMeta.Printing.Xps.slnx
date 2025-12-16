@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/Solution Files/">
+    <File Path="SolutionFiles/ThinkMeta.Printing.Xps.Net.props" />
+  </Folder>
+  <Folder Name="/ThinkMeta.SolutionFiles/">
+    <File Path="ThinkMeta.SolutionFiles/.clang-format" />
+    <File Path="ThinkMeta.SolutionFiles/.editorconfig" />
+    <File Path="ThinkMeta.SolutionFiles/LICENSE" />
+    <File Path="ThinkMeta.SolutionFiles/README.md" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Build.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.Build.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.Configurations.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.ForceImportAfterCppDefaultProps.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.ForceImportAfterCppProps.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.ForceImportAfterCppTargets.targets" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.ForceImportBeforeCppProps.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.ForceImportBeforeCppTargets.targets" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Cpp.StaticLibrary.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.CsWarnings.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Net.Build.props" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Net.Build.targets" />
+    <File Path="ThinkMeta.SolutionFiles/ThinkMeta.Packages.props" />
+  </Folder>
+  <Project Path="ThinkMeta.Printing.Xps.Cli/ThinkMeta.Printing.Xps.Cli.csproj" Id="1b6642f3-51b9-42cd-8741-ba35bc2241dd" />
+  <Project Path="ThinkMeta.Printing.Xps/ThinkMeta.Printing.Xps.csproj" />
+</Solution>

@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\ThinkMeta.Printing.Xps\ThinkMeta.Printing.Xps.csproj" />
+    </ItemGroup>
+</Project>

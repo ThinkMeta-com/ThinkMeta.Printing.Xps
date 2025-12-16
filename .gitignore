@@ -1,0 +1,5 @@
+/.github
+/.vs
+/build
+/ThinkMeta.Printing.Xps.Cli/Properties/launchSettings.json
+/.editorconfig
